@@ -40,11 +40,10 @@ body>.container {
     height: 100%;
 }
 
-.center{
+.center {
     text-align: center;
 }
 
 .pagination {
     justify-content: center;
- }
-
+}
